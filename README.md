@@ -5,6 +5,9 @@
 - How to reach me: ju.dep@zoho.com , Bunker on odforce.net
 - 
 - current config: Ubuntu20.04 / Fedora36, Xmonad, Xmobar, Dmenu, Alacritty ,NeoVim, Planck-v6-drop
+
+git config --global core.editor "nvim"
+
 <!---
 jdvfx/jdvfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
