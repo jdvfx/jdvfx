@@ -2,7 +2,7 @@
 - I’m interested in anything Linux related, Houdini, Python, Rust, VEX, Lighting/Rendering with Gaffer, Arnold, Cycles X.
 - I’m currently learning: Rust and always learning more Python, Linux, Houdini, Blender
 - I’m looking to collaborate on: VEX Snippets, Rust, Python tools for Houdini, Houdini tutorials (maybe)
-- How to reach me: ju.dep@zoho.com , Bunker on odforce.net
+- How to reach me: ju.dep@zoho.com
 - 
 - current config: Ubuntu20.04 / Fedora36, Xmonad, Xmobar, Dmenu, Alacritty ,NeoVim, Planck-v6-drop
 
