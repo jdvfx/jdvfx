@@ -4,7 +4,7 @@
 - I’m looking to collaborate on: VEX Snippets, Rust, Python tools for Houdini, tutorials
 - How to reach me: ju.dep@zoho.com
 - 
-- current config: Fedora36, Ubuntu20.04 , Xmonad, Xmobar, Dmenu, Alacritty ,NeoVim, Planck-v6-drop
+- current config: Fedora37, Ubuntu20.04 , Xmonad, Xmobar, Dmenu, Alacritty ,NeoVim, Planck-v6-drop
 
 git config --global core.editor "nvim"
 
