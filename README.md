@@ -1,6 +1,6 @@
 - Hi, I’m Julien D. aka Bunker.
-- I’m interested in anything Linux related, Houdini, Python, Rust, VEX, Lighting/Rendering with Gaffer, Arnold.
-- I’m currently learning: Rust, SQL, and always learning more Python, Linux, Houdini.
+- I’m interested in anything <code>Linux</code> related, <code>Houdini</code>, <code>Python</code>, <code>Rust</code>, <code>VEX</code>, <code>Lighting/Rendering</code> with <code>Gaffer</code>, <code>Arnold</code>, <code>Solaris</code>.
+- I’m currently learning: <code>Rust</code>, <code>SQL</code>, and always learning more <code>Python</code>, <code>Linux</code>, <code>Houdini</code>.
 - I’m looking to collaborate on: VEX Snippets, Rust, Python tools for Houdini, tutorials
 - How to reach me: ju.dep@zoho.com
 - 
