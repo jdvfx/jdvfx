@@ -4,7 +4,7 @@ currently learning: <code>Rust</code>, <code>SQL</code>, and always learning mor
 I’m looking to collaborate on: VEX Snippets, Rust, Python tools for Houdini, tutorials<br>
 How to reach me: ju.dep@zoho.com
 
-current config: Fedora40+Sway+Tofi, Ubuntu22.04+Xmonad+Dmenu, Alacritty ,NeoVim, Piantor-42keys-v2, Planck-v7-drop<br>
+current config: Fedora41+Sway+Tofi, Ubuntu24.04+Xmonad+Dmenu, Alacritty, Kitty ,NeoVim, Piantor v2 & Pro 42 keys, Planck-v7-drop<br>
 
 <em>git config --global core.editor "nvim"</em>
 
