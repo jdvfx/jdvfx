@@ -6,7 +6,8 @@ How to reach me: ju.dep@zoho.com
 
 current config: Fedora41+Sway+Tofi, Ubuntu24.04+Xmonad+Dmenu, Alacritty, Kitty ,NeoVim, Piantor v2 & Pro 42 keys, Planck-v7-drop<br>
 
-<em>git config --global core.editor "nvim"</em>
+<em>git config --global core.editor "nvim"</em><br>
+<em>sudo apt-mark hold \*nvidia*</em>
 
 <!---
 jdvfx/jdvfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
